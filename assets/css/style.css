@@ -498,6 +498,10 @@ form .frm-btn {
 }
 
 @media (max-width:768px) {
+    html{
+        overflow-x:hidden;
+    }
+    
     #ham-menu {
         display: block;
     }
