@@ -9,7 +9,8 @@
     font-family: poppins;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    border: none;
+/*     border: none; */
+    border : 2px solid red;
     outline: none;
     text-decoration: none;
 }
