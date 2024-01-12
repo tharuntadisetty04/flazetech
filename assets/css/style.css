@@ -9,8 +9,7 @@
     font-family: poppins;
     box-sizing: border-box;
     scroll-behavior: smooth;
-/*     border: none; */
-    border : 2px solid red;
+    border: none;
     outline: none;
     text-decoration: none;
 }
@@ -37,7 +36,7 @@ span {
 /* navbar design */
 .header {
     display: flex;
-    width: 100%;
+    width: 100vw;
     justify-content: space-between;
     align-items: center;
     position: fixed;
